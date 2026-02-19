@@ -3,7 +3,7 @@ do
 {
     Console.Write("Ingrese un número entero o la palabra 'Salir' para salir: ");
     numberString = Console.ReadLine();
-    if (numberString!.ToLower() == "salir")
+    if (numberString!.ToLower() == "salir") // To.Lower is for converted to lowercase
     {
         continue;
     }

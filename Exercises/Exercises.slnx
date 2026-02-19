@@ -1,5 +1,12 @@
 <Solution>
   <Folder Name="/01/">
     <Project Path="OddNumberOrNot/OddNumberOrNot.csproj" Id="5f7c83ab-627b-4773-8596-d2b46a409e23" />
+    <Project Path="OddNumberOrNotExtension/OddNumberOrNotExtension.csproj" Id="c054de6f-6e46-4501-b955-c852811c68a8" />
+  </Folder>
+  <Folder Name="/02/">
+    <Project Path="LargestNumber/LargestNumber.csproj" Id="5e25a309-e996-42a0-9270-851005c39afb" />
+  </Folder>
+  <Folder Name="/Shared/">
+    <Project Path="Shared/Shared.csproj" Id="c3c90cf6-0d91-4684-a8de-b6ce1650d8cc" />
   </Folder>
 </Solution>
