@@ -6,6 +6,9 @@
   <Folder Name="/02/">
     <Project Path="LargestNumber/LargestNumber.csproj" Id="5e25a309-e996-42a0-9270-851005c39afb" />
   </Folder>
+  <Folder Name="/03/">
+    <Project Path="OrderOfNumber/OrderOfNumber.csproj" Id="3fe1c7c3-6fb2-4364-a8ba-b70931eeb463" />
+  </Folder>
   <Folder Name="/Shared/">
     <Project Path="Shared/Shared.csproj" Id="c3c90cf6-0d91-4684-a8de-b6ce1650d8cc" />
   </Folder>
