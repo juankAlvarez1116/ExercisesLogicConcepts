@@ -9,6 +9,9 @@
   <Folder Name="/03/">
     <Project Path="OrderOfNumber/OrderOfNumber.csproj" Id="3fe1c7c3-6fb2-4364-a8ba-b70931eeb463" />
   </Folder>
+  <Folder Name="/04/">
+    <Project Path="MultiplesNumber/MultiplesNumber.csproj" Id="fb7dfb0e-8b6e-46cb-b35b-53af88362776" />
+  </Folder>
   <Folder Name="/Shared/">
     <Project Path="Shared/Shared.csproj" Id="c3c90cf6-0d91-4684-a8de-b6ce1650d8cc" />
   </Folder>
